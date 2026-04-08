@@ -26,6 +26,12 @@
       "eas": {
         "projectId": "100d9451-af91-4af9-9be3-539ccc645508"
       }
+    },
+    "ios": {
+      "bundleIdentifier": "com.stockalarm.app",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     }
   }
 }
